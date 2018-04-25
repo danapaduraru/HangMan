@@ -20,8 +20,8 @@ When a fairy appears, she will suggest using a letter that it's sure to be found
 
 Some screenshots of the project:
 
-http://i67.tinypic.com/2po9sp5.jpg
+https://image.ibb.co/gNxVzH/Capture1.jpg
 
-http://i65.tinypic.com/vo1rie.jpg
+https://image.ibb.co/cfxfzH/Capture5.jpg
 
-http://i68.tinypic.com/u30vl.jpg
+https://image.ibb.co/kX33KH/Capture6.jpg
