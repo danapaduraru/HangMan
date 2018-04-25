@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1524642736 source:d:\projects\hangman\main.cpp
+	<iostream>
+	<graphics.h>
+	"Word.h"
+	"Graphics.h"
+
+1524642755 d:\projects\hangman\include\word.h
+	<string>
+	<vector>
+
+1524642755 source:d:\projects\hangman\src\word.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<time.h>
+	"Word.h"
+	<graphics.h>
+
