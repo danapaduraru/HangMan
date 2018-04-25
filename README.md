@@ -17,3 +17,11 @@ When a wizard appears, he will give the player another life.
 When a fairy appears, she will suggest using a letter that it's sure to be found in the word that the player tries to guess.
 
 ✖ Play Again option
+
+Some screenshots of the project:
+
+http://i67.tinypic.com/2po9sp5.jpg
+
+http://i65.tinypic.com/vo1rie.jpg
+
+http://i68.tinypic.com/u30vl.jpg
